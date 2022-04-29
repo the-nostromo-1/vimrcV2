@@ -108,3 +108,4 @@ nnoremap <C-t> :NERDTreeToggle<CR>
 colorscheme badwolf "using badwolf colorscheme
 
 echo "VIMRC had loaded"
+"echo message at end
