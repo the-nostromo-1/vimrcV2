@@ -4,7 +4,7 @@ if has ('filetype')
     filetype indent plugin on "sets filetype detection for indents and plugins to on
 endif
 
-"autocmd Vimenter * NERDTree "starts vim with nerdtree open
+autocmd Vimenter * NERDTree "starts vim with nerdtree open
 
 call plug#begin()
 Plug 'junegunn/vim-easy-align'
